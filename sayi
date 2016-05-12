@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    
+    int say1,say2;
+    cout<<"Sayiyi giriniz:";
+    cin>>say1;
+   
+    say1=say2;
+    cout<<"sayi:"<<sayi2<<endl;
+ 
+    
+}
