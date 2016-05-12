@@ -1,3 +1,19 @@
 #include <iostream>
 
-using namespace std;
+using std::cout;
+using std::cin;
+using std::endl;
+
+int main()
+{
+    
+    int say1,say2,toplam;
+    cout<<"ilk sayiyi giriniz:";
+    cin>>say1;
+    cout<<"ikinci sayiyi giriniz:";
+    cin>>say2;
+    toplam=say1+say2;
+    cout<<"toplam:"<<toplam<<endl;
+ 
+    
+}
